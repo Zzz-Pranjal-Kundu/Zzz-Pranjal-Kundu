@@ -1,32 +1,19 @@
-## Hi there 👋
-
-<!--
-**Zzz-Pranjal-Kundu/Zzz-Pranjal-Kundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Pranjal%20Kundu&fontSize=70&animation=fadeIn" width="100%"/>
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Kundu!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+a+Software+Dev;+I+Build+with+AI;+Welcome+to+my+Github!;" />
 </h1>
 
-<h3 align="center">Software Developer & ML Enthusiast</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-System%20Design-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%20Integration-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-C++%20%7C%20Java-blue?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-System%20Design-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-AI%20Integration-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-C++%20%7C%20Java%20%7C%20React-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Zzz-Pranjal-Kundu&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <br/>
@@ -59,31 +46,55 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,spring,mysql,elasticsearch" alt="Backend" />
+  <h3><b>Languages</b></h3>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,javascript,mysql" alt="Languages" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript,git,github,vscode,postman" alt="Tools" />
+  <h3><b>Frameworks & Technologies</b></h3>
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,react,tailwind,elasticsearch,html,css" alt="Frameworks" />
+  <br/><br/>
+  <h3><b>Tools & Platforms</b></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" alt="Tools" />
 </div>
 
 <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-- **AI-Powered Smart Email Assistant** – Autonomous email reply generation using **Java Spring Boot**, **React**, and **Google Gemini API**.
-- **SyncIDE** – Compiler visualization tool covering **lexical, syntax, and semantic analysis** phases.
-- **Movie Recommender System** – ML-based personalized recommendation engine built with **Python** and **Streamlit**.
-- **Weather Web Application** – Real-time weather app using **OpenWeather API** featuring localized forecasts and AQI data.
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Zzz-Pranjal-Kundu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz-Pranjal-Kundu&repo=SyncIDE&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Zzz-Pranjal-Kundu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz-Pranjal-Kundu&repo=AI-Smart-Email-Assistant&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+- **🎥 Movie Recommender System** – ML-based personalized recommendation engine built with **Python** and **Streamlit**.
+- **☁️ Weather Web Application** – Real-time weather app using **OpenWeather API** featuring localized forecasts and AQI data.
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Growth & Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzz-Pranjal-Kundu&show_icons=true&theme=radical" alt="Pranjal's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzz-Pranjal-Kundu&theme=radical" alt="Pranjal's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zzz-Pranjal-Kundu&show_icons=true&theme=radical&count_private=true" alt="Pranjal's Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzz-Pranjal-Kundu&theme=radical" alt="Pranjal's Streak" height="180px" />
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zzz-Pranjal-Kundu&theme=radical" width="100%" />
+</p>
 
 <br/>
 
